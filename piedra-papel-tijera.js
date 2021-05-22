@@ -19,4 +19,5 @@ function game(me, cpu) {
         console.log('tie')
     }
 }
+
 game(rock, paper)
